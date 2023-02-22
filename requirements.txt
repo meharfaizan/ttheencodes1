@@ -1,7 +1,7 @@
-aiohttp
-python-decouple
-pyaesni
-psutil
+aiohttp==3.6.3
+python-decouple==3.3
+pyaesni==0.11
+psutil==5.6.5
 speedtest-cli
 https://github.com/1Danish-00/Telethon/archive/master.zip
 html_telegraph_poster
